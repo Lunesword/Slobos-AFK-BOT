@@ -8,7 +8,7 @@
   "server": {
     "ip": "lunaasmp.aternos.me",
     "port": 54076,
-    "version": "26.2"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
